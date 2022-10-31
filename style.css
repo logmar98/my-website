@@ -118,3 +118,34 @@ header a{
     flex-direction: column;
     gap: 12px;
 }
+/* portfolio section */
+.portfolio-section{
+    background-color: #486488;
+    padding: 60px 16px;
+}
+.portfolio-section h2{
+    text-align: center;
+    color: #001725;
+}
+.portfolio-section img{
+    width: 300px;
+    height: auto;
+}
+.portfolio{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+.port{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+.port a{
+    color: #94A7D5;
+    border: 1px solid #001725;
+    padding: 6px 16px;
+    border-radius: 12px;
+    background-color: #001725;
+}
