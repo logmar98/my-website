@@ -149,3 +149,22 @@ header a{
     border-radius: 12px;
     background-color: #001725;
 }
+
+/*contact us*/
+
+.contact-us{
+    background-color: #94A7D5;
+}
+.contact-us h2{
+    text-align: center;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.contact a img{
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+}
+/*footer*/
