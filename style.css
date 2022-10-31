@@ -154,6 +154,7 @@ header a{
 
 .contact-us{
     background-color: #94A7D5;
+    padding: 20px;
 }
 .contact-us h2{
     text-align: center;
@@ -168,3 +169,9 @@ header a{
     flex-shrink: 0;
 }
 /*footer*/
+footer{
+    background-color: #001725;
+    text-align: center;
+    color: #94A7D5;
+    padding: 8px;
+}
